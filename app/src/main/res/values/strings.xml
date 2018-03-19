@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IPL</string>
+    <string name="teamActivity">Teams</string>
+    <string name="HomePage">IPL 2018</string>
+</resources>
